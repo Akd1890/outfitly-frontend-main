@@ -70,7 +70,7 @@ To get a local copy up and running follow these simple steps.
 1. Clone the repo
 
 ```sh
-git clone https://github.com/Akd1890/outfitly-frontend.git
+git clone https://github.com/Akd1890/outfitly-frontend-main.git
 ```
 
 2. Install NPM packages
